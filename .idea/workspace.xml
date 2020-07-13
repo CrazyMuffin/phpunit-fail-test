@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c84caeb-d3de-4449-bf5b-f7287c57f2ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Entity/Bar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Entity/Foo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Entity/FooTest.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="Ubuntu 20.04" />
+  <component name="ProjectId" id="1edYF2EiMsLVJPJkohEM4T0ikCx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/phpunit.xml.dist" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Development\muffin\phpunit-fail-test\tests\Entity" />
+      <recent name="C:\Development\muffin\phpunit-fail-test\tests" />
+      <recent name="C:\Development\muffin\phpunit-fail-test\src\Service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHPUnit.Unnamed">
+    <configuration name="FooTest.testData" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="App\Entity\FooTest" file="$PROJECT_DIR$/tests/Entity/FooTest.php" method="testData" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" nameIsGenerated="true">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="Ubuntu 20.04" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <TestRunner configuration_file="$PROJECT_DIR$/phpunit.xml.dist" scope="XML" use_alternative_configuration_file="true" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHPUnit.Unnamed" />
+      <item itemvalue="PHPUnit.FooTest.testData" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.FooTest.testData" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c84caeb-d3de-4449-bf5b-f7287c57f2ba" name="Default Changelist" comment="" />
+      <created>1594652829391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594652829391</updated>
+      <workItem from="1594652830501" duration="2081000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="235" key="#Test_Frameworks" timestamp="1594653725954">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="540" y="235" key="#Test_Frameworks/-1920.131.1920.1040/1920.-442.1200.1880/0.0.1920.1160@0.0.1920.1160" timestamp="1594653725954" />
+    <state x="644" y="200" key="#Unnamed" timestamp="1594653771108">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="644" y="200" key="#Unnamed/-1920.131.1920.1040/1920.-442.1200.1880/0.0.1920.1160@0.0.1920.1160" timestamp="1594653771108" />
+    <state x="414" y="235" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594654473517">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="414" y="235" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.131.1920.1040/1920.-442.1200.1880/0.0.1920.1160@0.0.1920.1160" timestamp="1594654473517" />
+    <state x="751" y="372" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594653982372">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="751" y="372" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1920.131.1920.1040/1920.-442.1200.1880/0.0.1920.1160@0.0.1920.1160" timestamp="1594653982372" />
+    <state x="739" y="334" key="FileChooserDialogImpl" timestamp="1594653768990">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="739" y="334" key="FileChooserDialogImpl/-1920.131.1920.1040/1920.-442.1200.1880/0.0.1920.1160@0.0.1920.1160" timestamp="1594653768990" />
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1594654908547">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom/-1920.131.1920.1040/1920.-442.1200.1880/0.0.1920.1160@0.0.1920.1160" timestamp="1594654908547" />
+    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1594654908547">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.center/-1920.131.1920.1040/1920.-442.1200.1880/0.0.1920.1160@0.0.1920.1160" timestamp="1594654908547" />
+    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1594654908547">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.left/-1920.131.1920.1040/1920.-442.1200.1880/0.0.1920.1160@0.0.1920.1160" timestamp="1594654908547" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1594654908547">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.right/-1920.131.1920.1040/1920.-442.1200.1880/0.0.1920.1160@0.0.1920.1160" timestamp="1594654908547" />
+    <state x="742" y="303" key="NewPhpClassDialog" timestamp="1594653975973">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="742" y="303" key="NewPhpClassDialog/-1920.131.1920.1040/1920.-442.1200.1880/0.0.1920.1160@0.0.1920.1160" timestamp="1594653975973" />
+    <state x="461" y="225" key="SettingsEditor" timestamp="1594653748889">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="461" y="225" key="SettingsEditor/-1920.131.1920.1040/1920.-442.1200.1880/0.0.1920.1160@0.0.1920.1160" timestamp="1594653748889" />
+    <state x="709" y="388" width="609" height="572" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1594653605094">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="709" y="388" width="609" height="572" key="com.jetbrains.php.test.PhpNewTestDialog/-1920.131.1920.1040/1920.-442.1200.1880/0.0.1920.1160@0.0.1920.1160" timestamp="1594653605094" />
+    <state x="667" y="313" width="585" height="534" key="find.popup" timestamp="1594653020735">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="667" y="313" width="585" height="534" key="find.popup/-1920.131.1920.1040/1920.-442.1200.1880/0.0.1920.1160@0.0.1920.1160" timestamp="1594653020735" />
+    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1594653041732">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup/-1920.131.1920.1040/1920.-442.1200.1880/0.0.1920.1160@0.0.1920.1160" timestamp="1594653041732" />
+  </component>
+</project>
